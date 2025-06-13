@@ -9,21 +9,21 @@ const projects = [
     description: 'Interactive dashboard using Power BI to visualize sales data and trends for decision making.',
     image: salesDashboardImg,
     tech: ['Excel', 'Data Analysis', 'Data Visualization'],
-    link: '#',
+    link: '#!',
   },
   {
     title: 'Days of Inventory',
     description: 'Tracks average inventory duration, helping businesses optimize stock levels and reduce holding costs.',
     image: daysofInventoryImg,
     tech: ['Excel', 'Data Analysis', 'Purchasing'],
-    link: '#',
+    link: '#!',
   },
   {
     title: 'Pamflet Design',
     description: 'Esports match poster created for Liga Esports Nasional Indonesia, published on Instagram @umt.esports to boost audience engagement and team branding.',
     image: pamfletDesignImg,
     tech: ['Canva', 'Photoshop', 'Social Media'],
-    link: '#',
+    link: '#!',
   },
 ];
 
