@@ -2,23 +2,44 @@ import React from 'react';
 import salesDashboardImg from '../assets/salesdashboard.jpeg';
 import pamfletDesignImg from '../assets/pamfletdesign.jpeg';
 import daysofInventoryImg from '../assets/daysofinventory.png';
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
 import analysisDashboardImg from '../assets/analysisdashboard.png';
 import fraudDetectionImg from '../assets/frauddetection.png';
 import rentalCarImg from '../assets/rentalcar.png';
 import cutiSystemImg from '../assets/cutisystem.png';
 import posSystemImg from '../assets/possystem.png';
 import iotTanamanImg from '../assets/iottanaman.png';
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> f5c59672f58a6864d7169912c8f6d58b53e59006
+>>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
 
 const projects = [
   {
     title: 'Sales Dashboard',
+<<<<<<< HEAD
     description: 'Sales data from PT. Enviro Buana Cipta operations visualized using Microsoft Excel for actionable insights.',
     description: 'Interactive dashboard using Power BI to visualize sales data and trends for decision making.',
+=======
+<<<<<<< HEAD
+    description: 'Sales data from PT. Enviro Buana Cipta operations visualized using Microsoft Excel for actionable insights.',
+=======
+    description: 'Interactive dashboard using Power BI to visualize sales data and trends for decision making.',
+>>>>>>> f5c59672f58a6864d7169912c8f6d58b53e59006
+>>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
     image: salesDashboardImg,
     tech: ['Excel', 'Data Analysis', 'Data Visualization'],
     link: '#!',
   },
   {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
     title: 'Pamflet Design',
     description: 'Esports match poster created for Liga Esports Nasional Indonesia, published on Instagram story @umt.esports.',
     image: pamfletDesignImg,
@@ -73,6 +94,23 @@ const projects = [
     image: iotTanamanImg,
     tech: ['React', 'ESP8266', 'IoT'],
     link: 'https://github.com/vickynfrdnto/skripsi-iot-dashboard',
+<<<<<<< HEAD
+=======
+=======
+    title: 'Days of Inventory',
+    description: 'Tracks average inventory duration, helping businesses optimize stock levels and reduce holding costs.',
+    image: daysofInventoryImg,
+    tech: ['Excel', 'Data Analysis', 'Purchasing'],
+    link: '#!',
+  },
+  {
+    title: 'Pamflet Design',
+    description: 'Esports match poster created for Liga Esports Nasional Indonesia, published on Instagram @umt.esports to boost audience engagement and team branding.',
+    image: pamfletDesignImg,
+    tech: ['Canva', 'Photoshop', 'Social Media'],
+    link: '#!',
+>>>>>>> f5c59672f58a6864d7169912c8f6d58b53e59006
+>>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
   },
 ];
 
