@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 import React, { useRef, useEffect } from 'react';
 import * as THREE from 'three';
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ParallaxProvider } from "react-scroll-parallax";
-=======
-import React from 'react';
->>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
 import './App.css';
 import Hero from './components/Hero';
 import Navbar from './components/Navbar';
@@ -17,10 +13,8 @@ import Projects from './components/Projects';
 import EducationCertificates from './components/EducationCertificates';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-<<<<<<< HEAD
 import SectionWrapper from "./components/SectionWrapper";
 import BackgroundMusic from "./components/BackgroundMusic";
-
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -147,13 +141,6 @@ function App() {
 
       {/* Main content */}
       <div className="relative z-10">
-=======
-import HeroBackground3D from './components/HeroBackground3D';
-
-function App() {
-  return (
-    <div className="bg-slate-900 text-gray-200 font-sans overflow-x-hidden">
->>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
       <Navbar />
       <Hero />
       <About />
@@ -163,24 +150,11 @@ function App() {
       <EducationCertificates />
       <Contact />
       <Footer />
-<<<<<<< HEAD
       <SectionWrapper />
       <BackgroundMusic />
       </div>
-=======
-      <HeroBackground3D />
-
-      {/* <div className="bg-red-500 text-white p-4 text-center">
-        Test Tailwind aktif
-      </div> */}
->>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
     </div>
   );
 }
 
-<<<<<<< HEAD
 export default App;
-=======
-export default App;
-
->>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f

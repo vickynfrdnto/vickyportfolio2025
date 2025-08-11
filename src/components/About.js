@@ -21,11 +21,7 @@ const About = () => {
               <div class="grid grid-cols-2 gap-4">
                 <div class="space-y-1">
                   <p><span class="font-semibold">Name:</span> Vicky Nanda Ferdianto</p>
-<<<<<<< HEAD
                   <p><span class="font-semibold">Education:</span> Informatics & Statistics</p>
-=======
-                  <p><span class="font-semibold">Education:</span> Statistics (3.29 GPA)</p>
->>>>>>> 09229826265d6dd784172e6605e7ff4b136bbe3f
                   <p><span class="font-semibold">Experience:</span> 3+ Years</p>
                 </div>
                 <div class="space-y-1">
